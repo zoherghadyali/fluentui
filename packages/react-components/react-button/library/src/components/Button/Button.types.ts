@@ -15,6 +15,7 @@ export type ButtonSlots = {
 
 /**
  * A button supports different sizes.
+ * @public
  */
 export type ButtonSize = 'small' | 'medium' | 'large';
 

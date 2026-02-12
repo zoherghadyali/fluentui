@@ -86,8 +86,8 @@ See [Fluent UI Storybook](https://react.fluentui.dev/) for more detailed usage e
 
 Alternatively, run Storybook locally with:
 
-1. `yarn start`
-2. Select `react-button` from the list.
+1. Run `yarn start` from the repository root
+2. Select `react-button` from the list
 
 ### Specification
 
