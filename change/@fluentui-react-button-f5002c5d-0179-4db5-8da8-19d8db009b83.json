@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "docs: improve Button README documentation and add JSDoc annotation",
+  "packageName": "@fluentui/react-button",
+  "email": "198982749+Copilot@users.noreply.github.com",
+  "dependentChangeType": "patch"
+}
